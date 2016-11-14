@@ -1,1 +1,2 @@
-# cat-rescue-api
+# cats-rescue-api
+Sinatra Application
